@@ -150,7 +150,6 @@ The system will run in a terminal environment, supported on any platform with Ja
 
 4.5 Maintainability
 - The system code should be modular and well-documented for ease of maintenance and future upgrades.
-
 5. External Interface Requirements
 No external APIs or interfaces are required in this version of the system. All data (market prices, news, etc.) will be simulated within the application.
 
